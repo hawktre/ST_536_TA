@@ -1,4 +1,9 @@
 # ST 536: R Programming for Data – TA Resources
+**Trent VanHawkins**
+
+**Fall 2024**
+
+## Introduction
 This is meant to serve as a folder structure of ST 536: R Programming for Data for the TA at Oregon State University. In addition to an organized folder structure for homework and project submissions, I included the `render_qmd.sh` folder to batch-render all quarto documents and output the rendered .pdf files to the provided folder path. 
 
 ## How to use this resource
@@ -10,7 +15,10 @@ cd ~/path/to/your/folder
 Then, you can clone the contents of this repository to your local machine by running
 
 ```bash
+git clone git@github.com:hawktre/ST_536_TA.git
 ```
+Help with how to use and run setup for git and github on your machine are outside of the scope of this document, but you can use the [GitHub Help Documentation](https://docs.github.com/en/get-started). 
+
 ## How to use batch-render .qmd files (Mac)
 Start by opening the terminal and change the working directory to wherever this folder is stored on your local machine. 
 
